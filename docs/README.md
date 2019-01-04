@@ -35,3 +35,24 @@ git diff
 git tag
 git branch
 ```
+
+### markdown
+>markdown是一门标记语言
+
+```
+# 
+＃＃
+＃＃＃
+-　item1
+-  item2
+- item3
+
+1.11111
+2.222222
+3.3333333333
+[baidu](http://www.baidu.com)
+![信息](****)
+**加粗**
+__斜体__
+>引用
+```
